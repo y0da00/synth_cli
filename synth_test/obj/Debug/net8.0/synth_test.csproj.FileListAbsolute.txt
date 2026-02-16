@@ -1,0 +1,17 @@
+C:\Users\zala1\Documents\synth_test\synth_test\bin\Debug\net8.0\synth_test.exe
+C:\Users\zala1\Documents\synth_test\synth_test\bin\Debug\net8.0\synth_test.deps.json
+C:\Users\zala1\Documents\synth_test\synth_test\bin\Debug\net8.0\synth_test.runtimeconfig.json
+C:\Users\zala1\Documents\synth_test\synth_test\bin\Debug\net8.0\synth_test.dll
+C:\Users\zala1\Documents\synth_test\synth_test\bin\Debug\net8.0\synth_test.pdb
+C:\Users\zala1\Documents\synth_test\synth_test\bin\Debug\net8.0\CSCore.dll
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.csproj.AssemblyReference.cache
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.AssemblyInfoInputs.cache
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.AssemblyInfo.cs
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.csproj.CoreCompileInputs.cache
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.csproj.Up2Date
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.dll
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\refint\synth_test.dll
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.pdb
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\synth_test.genruntimeconfig.cache
+C:\Users\zala1\Documents\synth_test\synth_test\obj\Debug\net8.0\ref\synth_test.dll

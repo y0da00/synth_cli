@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dLg/Py/OR0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zala1\\Documents\\synth_test\\synth_test\\synth_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zala1\\.nuget\\packages\\cscore\\1.2.1.2\\cscore.1.2.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'CSCore 1.2.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\zala1\\Documents\\synth_test\\synth_test\\synth_test.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\zala1\\Documents\\synth_test\\synth_test\\synth_test.csproj",
+      "libraryId": "CSCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
